@@ -101,7 +101,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-# data head
+### data head
 
 <img width="1593" height="238" alt="image" src="https://github.com/user-attachments/assets/885dbd66-6f1c-45ce-be2d-318f9cd0a1fe" />
 
