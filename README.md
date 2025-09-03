@@ -105,45 +105,45 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 <img width="1593" height="238" alt="image" src="https://github.com/user-attachments/assets/885dbd66-6f1c-45ce-be2d-318f9cd0a1fe" />
 
-# data1 head
+### data1 head
 
 <img width="1422" height="241" alt="image" src="https://github.com/user-attachments/assets/548274bb-2154-478f-ba9c-8dd7d62a79a0" />
 
-# isnull
+### isnull
 
 <img width="756" height="638" alt="image" src="https://github.com/user-attachments/assets/5cb06a1b-4def-4752-9768-0f39f5dacc58" />
 
-# duplicate  
+### duplicate  
 
 <img width="1068" height="64" alt="image" src="https://github.com/user-attachments/assets/823ecff9-a244-4404-a8ab-71ba1b79ac8b" />
 
-# data1  
+### data1  
 
 <img width="1483" height="485" alt="image" src="https://github.com/user-attachments/assets/af708d90-a470-4978-95c4-88f18f884bc2" />
 
-# X  
+### X  
 <img width="1349" height="461" alt="image" src="https://github.com/user-attachments/assets/70941a5b-e46a-4f84-af13-9ba05562aa96" />
 
- # Y  
+### Y  
 <img width="972" height="489" alt="image" src="https://github.com/user-attachments/assets/3e13f7dd-1950-48c1-bb2f-d64c23530db8" />
 
-# y_pred 
+### y_pred 
 
 <img width="944" height="87" alt="image" src="https://github.com/user-attachments/assets/11066ff8-01c7-45dd-9786-054e538bbf89" />
 
-# accuracy
+### accuracy
 
 <img width="834" height="78" alt="image" src="https://github.com/user-attachments/assets/4b28553a-6ab6-4ca4-8a1d-64ab005d8842" />
 
-# confusion
+### confusion
 
 <img width="670" height="98" alt="image" src="https://github.com/user-attachments/assets/d553d987-4795-42af-9150-6addc74a3db1" />
 
-# classification
+### classification
 
 <img width="1008" height="214" alt="image" src="https://github.com/user-attachments/assets/4fcb8c26-ebf0-4385-b85a-cf21312c5242" />
 
-# lr
+### lr
 
 <img width="1603" height="155" alt="image" src="https://github.com/user-attachments/assets/854246b4-5b83-465d-95c9-0ac5a949ab6b" />
 
